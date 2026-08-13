@@ -96,6 +96,5 @@ Just delete the extracted folder. No registry changes or leftover files.
 
 ---
 
-## Download
 
 [Download Latest Version](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
