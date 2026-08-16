@@ -101,6 +101,3 @@ Yes. The default toggle key is `[Insert]`, but you can change it in the settings
 Just delete the extracted folder. No registry changes or leftover files.
 
 ---
-
-
-[Download Latest Version](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
